@@ -4,6 +4,7 @@ clean:
 	rm ./parks/*.geojson
 	rm ./parks/*.jpg
 	rm ./parks/*.tif
+	rm *.mpg
 
 setup:
 	mkdir parks
